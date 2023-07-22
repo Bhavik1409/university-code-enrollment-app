@@ -1,0 +1,5 @@
+<connectionStrings>
+    <add name="CourseEnrollmentConnectionString" 
+         connectionString="Data Source=(local);Initial Catalog=CourseEnrollmentDB;Integrated Security=True" 
+         providerName="System.Data.SqlClient" />
+</connectionStrings>
